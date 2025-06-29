@@ -1,4 +1,4 @@
-Sahithi Gummadi's Personal Portfolio Website
+
 This is the code for my personal portfolio website. It's designed to show my projects, skills, education, and achievements in a professional dark-mode style.
 
 Features:
