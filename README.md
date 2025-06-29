@@ -1,6 +1,6 @@
 #  Personal Portfolio Website
 
-A sleek, dark-themed portfolio website designed to professionally showcase my skills, projects, education, and achievements.
+A  dark-themed portfolio website designed to professionally showcase my skills, projects, education, and achievements.
 
 
  **[Live Demo](https://sahithigummadi05.github.io/Portfolio/)**   
