@@ -25,4 +25,4 @@ CSS3: For styling, especially using:
 
 Tailwind CSS: A fast way to style the site and make it responsive.
 
-JavaScript (Vanilla JS): For interactive parts and pop-ups.
+JavaScript (Vanilla JS): For interactive parts and pop-up.
