@@ -13,7 +13,7 @@ A sleek, dark-themed portfolio website designed to professionally showcase my sk
 -  **Achievements** – Notable awards, certifications, and competitive programming rankings.  
 -  **Contact Me** – Email, phone, and social links for easy communication.
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **HTML5** – Semantic structure for clean markup.  
 - **CSS3** + **Tailwind CSS** – Utility-first styling for fast, responsive UI design.  
@@ -21,4 +21,4 @@ A sleek, dark-themed portfolio website designed to professionally showcase my sk
 
 ---
 
- **[Live Demo](https://sahithigummadi05.github.io/Portfolio/)** ()  
+ **[Live Demo](https://sahithigummadi05.github.io/Portfolio/)**   
