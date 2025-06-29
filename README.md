@@ -1,28 +1,24 @@
+#  Personal Portfolio Website
 
-This is the code for my personal portfolio website. It's designed to show my projects, skills, education, and achievements in a professional dark-mode style.
+A sleek, dark-themed portfolio website designed to professionally showcase my skills, projects, education, and achievements.
 
-Features:
-Clean Look: A modern, dark design that's easy on the eyes.
+##  Features
 
-Works Everywhere: Looks great on phones, tablets, and computers.
+-  **Modern Dark Mode** – Clean, eye-friendly design with a professional aesthetic.  
+-  **Fully Responsive** – Optimized for mobile, tablet, and desktop devices.  
+-  **About Me** – Brief introduction to my technical background, passions, and competitive programming highlights.  
+-  **Skills** – Categorized list of programming languages, tools, frameworks, and technologies.  
+-  **Projects** – Interactive cards featuring project details, technologies used, and GitHub links.  
+-  **Experience & Education** – A timeline showcasing academic and professional milestones.  
+-  **Achievements** – Notable awards, certifications, and competitive programming rankings.  
+-  **Contact Me** – Email, phone, and social links for easy communication.
 
-About Me: A quick intro to my skills, passions, and competitive programming achievements.
+## 🛠 Technologies Used
 
-My Skills: Organized lists of all my technical abilities (programming, web, ML, databases, etc.).
+- **HTML5** – Semantic structure for clean markup.  
+- **CSS3** + **Tailwind CSS** – Utility-first styling for fast, responsive UI design.  
+- **Vanilla JavaScript** – Handles interactivity and dynamic behavior.
 
-Projects: Interactive cards for each project. Click for more details, technologies used, and GitHub links.
+---
 
-Experience & Education: A timeline of my academic and work history.
-
-Achievements: Highlights important awards and competitive ranks.
-
-Contact Me: Easy ways to get in touch (email, phone, social links).
-
-Technologies Used:
-HTML5: For the website structure.
-
-CSS3: For styling, especially using:
-
-Tailwind CSS: A fast way to style the site and make it responsive.
-
-JavaScript (Vanilla JS): For interactive parts and pop-up.
+ **[Live Demo](https://sahithigummadi05.github.io/Portfolio/)** (Replace `#` with your deployed site URL)  
